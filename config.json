@@ -1,0 +1,13 @@
+{
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "email_from": "podlucka.zlata@gmail.com",
+  "email_to": ["podlucka.zlata@gmail.com"],
+  "login_email": "podlucka.zlata@gmail.com",
+  "login_password": "your_app_specific_password",
+  "pararius_login_url": "https://www.pararius.com/login",
+  "pararius_login_payload": {
+    "username": "podlucka.zlata@gmail.com",
+    "password": "your_pararius_password"
+  }
+}
