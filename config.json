@@ -1,13 +1,13 @@
 {
-  "smtp_server": "smtp.gmail.com",
-  "smtp_port": 587,
-  "email_from": "podlucka.zlata@gmail.com",
-  "email_to": ["podlucka.zlata@gmail.com"],
-  "login_email": "podlucka.zlata@gmail.com",
-  "login_password": "your_app_specific_password",
-  "pararius_login_url": "https://www.pararius.com/login",
-  "pararius_login_payload": {
-    "username": "podlucka.zlata@gmail.com",
-    "password": "your_pararius_password"
-  }
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "email_from": "your_email@gmail.com",
+    "email_to": ["recipient1@example.com", "recipient2@example.com"],
+    "login_email": "your_email@gmail.com",
+    "login_password": "your_app_specific_password",
+    "pararius_login_url": "https://www.pararius.com/login",
+    "pararius_login_payload": {
+        "username": "your_email@gmail.com",
+        "password": "your_pararius_password"
+    }
 }
